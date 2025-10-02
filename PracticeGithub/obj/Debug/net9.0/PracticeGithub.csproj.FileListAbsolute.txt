@@ -1,0 +1,14 @@
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\bin\Debug\net9.0\PracticeGithub.exe
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\bin\Debug\net9.0\PracticeGithub.deps.json
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\bin\Debug\net9.0\PracticeGithub.runtimeconfig.json
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\bin\Debug\net9.0\PracticeGithub.dll
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\bin\Debug\net9.0\PracticeGithub.pdb
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.AssemblyInfoInputs.cache
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.AssemblyInfo.cs
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.csproj.CoreCompileInputs.cache
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.dll
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\refint\PracticeGithub.dll
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.pdb
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.genruntimeconfig.cache
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\ref\PracticeGithub.dll
