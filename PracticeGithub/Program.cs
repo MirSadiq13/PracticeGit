@@ -6,8 +6,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Test Feature Branch");
 
 Console.WriteLine("Checkout Feature Branch");
-
-
-
-
-
