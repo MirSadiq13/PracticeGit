@@ -12,3 +12,4 @@ C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\re
 C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.pdb
 C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.genruntimeconfig.cache
 C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\ref\PracticeGithub.dll
+C:\Users\Mirsadiq\source\repos\PracticeGithub\PracticeGithub\obj\Debug\net9.0\PracticeGithub.sourcelink.json
